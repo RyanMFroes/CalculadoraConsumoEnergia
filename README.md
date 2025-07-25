@@ -41,3 +41,7 @@ Televisor: 22.50 kWh → R$ 19.13
 Ventilador: 18.00 kWh → R$ 15.30
 
 Total: 40.50 kWh → R$ 34.43
+---------------------------------------------------------------------------------------
+👨‍💻 Autor
+Desenvolvido por Ryan Muto
+GitHub: @ryanmuto
