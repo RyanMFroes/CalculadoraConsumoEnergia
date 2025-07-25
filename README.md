@@ -13,7 +13,7 @@ Este é um projeto simples em Java que simula o consumo de energia elétrica de 
 - Cálculo do custo estimado com base na tarifa informada.
 - Exibição do consumo individual e total em kWh e em R$.
 
-## 📸 Exemplo de Execução
+### 📸 Exemplo de Execução
 
 ```bash
 Informe o valor da tarifa (R$/kWh): 0.85
@@ -44,7 +44,7 @@ Total: 40.50 kWh → R$ 34.43
 ---------------------------------------------------------------------------------------
 ```
 
-##👨‍💻 Autor
+####👨‍💻 Autor
 
 - Desenvolvido por Ryan Muto
 - GitHub: @RyanMFroes
