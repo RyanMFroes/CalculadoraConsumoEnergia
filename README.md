@@ -42,6 +42,9 @@ Ventilador: 18.00 kWh → R$ 15.30
 
 Total: 40.50 kWh → R$ 34.43
 ---------------------------------------------------------------------------------------
-👨‍💻 Autor
-Desenvolvido por Ryan Muto
-GitHub: @ryanmuto
+```
+
+##👨‍💻 Autor
+
+- Desenvolvido por Ryan Muto
+GitHub: @RyanMFroes
